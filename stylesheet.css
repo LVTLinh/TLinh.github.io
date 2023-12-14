@@ -1,0 +1,249 @@
+#Banner{
+    width: 1430px;;
+    height: 120px;
+}
+
+#menu li a  {
+    color: rgb(230, 102, 123);
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#menu li{
+    display: inline-block;
+    margin: 20px;
+}
+
+#Avatar {
+    border-radius: 50%;
+    border: 6px white solid;
+    height: 400px;
+    width: 400px;
+}
+
+header {
+    background-color: rgb(254, 228, 232);
+    padding: 45px;
+}
+
+#thuy{
+    font-weight: normal;
+    font-size: 52px;
+}
+
+#vu{
+    font-weight: bolder;
+    font-size: 52px;
+}
+
+#aboutme{
+    text-align: justify;
+    margin:  0 350px;
+    font-size: 72;
+    padding: 50px;
+    line-height: 25px;
+    margin-bottom: 70px;
+}
+
+#student {
+    font-weight: normal;
+    font-size: 62px;
+    position:absolute;
+    left: 230px;
+    top: 1150px;
+ }
+
+ #iam{
+    font-weight: bolder;
+    font-size: 62px;
+ }
+
+#images1 {
+    vertical-align: text-top;
+    margin: 30px;
+ }
+
+#images2 {
+    vertical-align: middle;
+    background-color: rgb(255, 219, 225);   
+    padding: 25px;
+ }
+
+#my{
+    font-weight: bold;
+    text-align: right;
+    font-size: 85px;
+    column-count: 2;
+    column-width: auto;
+    margin-top: 100px;
+}
+
+#text{
+    text-align: justify;
+    font-size: 22px;
+    margin: 120px;
+    padding: 50px;
+    line-height: 25px;
+    font-weight: normal;
+    vertical-align: bottom;
+    margin-right: 120px;
+}
+
+#link2{
+    text-align: center;
+    width: 450px ;
+    height: 365px;
+}
+
+#line {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+hr{
+    width: 60%;
+    border: 2px solid #000;
+}
+
+
+#enjoy{
+    text-align: justify;
+    margin:  0 250px;
+    font-size: 40px;
+    padding: 50px;
+    line-height: 55px;
+    margin-bottom: 70px;
+}
+
+#signs{
+    font-size: large;
+    text-align: center;
+    margin: 25px;
+}
+
+#pictures{
+    font-size: 52px;
+    text-align: center;
+    line-height: 25px;
+    margin: 50px;
+}
+
+#autumn{
+    text-align: justify;
+    margin: 0 50px;
+    font-size: 52px;
+}
+
+#signs{
+    font-size: 200px;
+}
+
+.breaktime1 , .breaktime2 {
+    font-weight: normal;
+    text-align: right;
+    font-size: 22px;
+    margin-top: 25px;
+}
+
+.breaktime2 {
+    float: right;
+    width: 50%;
+    margin: 30px;
+}
+
+.breaktime1 {
+    width: 50%;
+}
+
+#end{
+    text-align: center;
+    color: white;
+    size: 30px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: pink;
+    padding: 10px;
+    margin: 20px;
+  }
+  
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(255, 198, 198, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.grid-item img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+/* Reset some default styles for better consistency */
+body, p, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color for the body */
+body {
+    background-color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+/* Style the header section */
+section {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    max-width: 1025px;
+    padding: 20px;
+}
+
+/* Style headings and text */
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+}
+
+p {
+    color: black;
+    padding: 10px;
+    text-align: justify;
+}
+
+/* Style the main content sections */
+main {
+    padding: 20px;
+}
+
+#about {
+    text-align: center;
+    size: 30px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+
+
+ 
+
+
+ 
+
